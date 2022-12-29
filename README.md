@@ -14,7 +14,7 @@ I am a self-taught Frontend Developer from Minnesota.
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently working on improving my coding and problem solving skills.
-- 🌱 I’m currently learning React as well al Back End Development and APIs.
+- 🌱 I’m currently learning React as well as some Back End Development and APIs.
 - 📫 How to reach me: amal.mohamud0808@gmail.com
 - ⚡ Fun fact: In my free time I enjoy watching movies, taking long walks, and baking.
 
