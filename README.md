@@ -13,10 +13,9 @@ I am a self-taught UX/UI Designer from Minnesota. I am currently learning Front 
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on improving my coding and problem-solving skills.
-- 🌱 I’m currently learning React as well as some Back End Development and APIs.
+- 🔭 I’m currently working on improving my UX Design Skills and problem-solving skills.
 - 📫 How to reach me: amal.mohamud0808@gmail.com
-- ⚡ Fun fact: In my free time I enjoy watching movies, taking long walks, and baking.
+- ⚡ Fun fact: In my free time I enjoy watching movies, taking long walks, Coffee and baking.
 
 ### :hammer_and_wrench: Languages and Tools :
 
